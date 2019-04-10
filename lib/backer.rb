@@ -12,8 +12,8 @@ class Backer
     project.backers << self
   end
 
-  # def backed_projects(title)
+  # 
+  
+enddef backed_projects(title)
   #   @backed_projects << title
   # end
-  
-end
